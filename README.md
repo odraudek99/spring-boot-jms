@@ -1,6 +1,6 @@
 
-# microservices_demo
-microservices_demo
+# spring-boot-jms
+spring-boot-jms
 
 ## activemq:
 * Download and execute:
